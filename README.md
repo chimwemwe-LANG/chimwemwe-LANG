@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chimwemwe-LANG
+<- 👋 Hi, I’m @chimwemwe-LANG
 - 👀 I’m interested in web languages
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any website. im just a beginner
 - 📫 How to reach me chimwemwemchungula2@gmail.com
 
 <!---
