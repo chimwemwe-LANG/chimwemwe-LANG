@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chimwemwe-LANG
 - 👀 I’m interested in web languages
-- 🌱 I’m currently learning python and sql
+- 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chimwemwemchungula2@gmail.com
 
